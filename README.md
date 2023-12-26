@@ -1,5 +1,5 @@
 # Clone the repository
-git clone https://github.com/francescorizzello94/save-document
+git clone git@github.com:francescorizzello94/save-document.git
 
 # Install dependencies
 npm install
